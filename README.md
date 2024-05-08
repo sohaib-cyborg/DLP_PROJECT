@@ -154,4 +154,4 @@ different.". This also tells what was the incorrect word along with the correct 
    - Once the code execution is complete, review the output to see the results of the error detection and correction process.
      
 ### 6. This how we run the project
-![Check the folders, make sure everything is in root directory](image_url)
+![Check the folders, make sure everything is in root directory](https://github.com/sohaib-cyborg/DLP_PROJECT/blob/main/hello.JPG)
