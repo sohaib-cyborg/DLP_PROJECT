@@ -146,10 +146,12 @@ different.". This also tells what was the incorrect word along with the correct 
    - Additionally, replace the second argument `1` with the corresponding index of your WAV file.
 
 ### 4. Run the Code
-   - Execute the main script or function to start the project.
-   - Depending on how the project is structured, you may need to run a specific command or script to initiate the process.
+   - The order is to run preprocessing.py but you can download data.json from the link given in Where_To_Find_Dataset.pdf.
+   - Run cnn_classifier.py next.
    - Ensure that all dependencies are installed and configured correctly before running the code.
 
 ### 5. Review Output
    - Once the code execution is complete, review the output to see the results of the error detection and correction process.
-   - The output may include information about the correctness of the recitation and any detected errors or corrections.
+     
+### 6. This how we run the project
+![Check the folders, make sure everything is in root directory](image_url)
