@@ -155,3 +155,7 @@ different.". This also tells what was the incorrect word along with the correct 
      
 ### 6. This how we run the project
 ![Check the folders, make sure everything is in root directory](https://github.com/sohaib-cyborg/DLP_PROJECT/blob/main/hello.JPG)
+
+### Sample Output
+![Example Output](https://github.com/sohaib-cyborg/DLP_PROJECT/blob/main/output.JPG)
+
